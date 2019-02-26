@@ -1,5 +1,5 @@
 baseurl = "https://asatwincities.github.io/"
-relativeURLs = true
+relativeURL= true
 title = "American Statistical Association-Twin Cities Chapter"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
