@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on American Statistical Association-Twin Cities Chapter</title>
+    <link>/tags/go/</link>
+    <description>Recent content in Go on American Statistical Association-Twin Cities Chapter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UPCOMING EVENT Spring 2019: Reproducible Science - April</title>
+      <link>/blog/2019/04/17/spring2019/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/04/17/spring2019/</guid>
+      <description>DATE AND TIME Mon, April 16, 2019
+5:30 PM – 9:00 PM CDT
+LOCATION Pizza Luce
+119 N 4th St
+Minneapolis, MN 55401
+INVITED TALKS &amp;ldquo;Treatment Allocation Using a Multi-Armed Bandit Approach&amp;rdquo; Sakshi Arya In medical practice, different treatments are available for a certain disease and a doctor decides which treatment to use on a patient. Multi Armed Bandit with Covariates (MABC) is a reinforcement learning approach that learns from and adapts to present and past information to achieve maximum benefit for the patients.</description>
+    </item>
+    
+    <item>
+      <title>Spring 2018: Student Seminars and Networking Event</title>
+      <link>/blog/2018/04/17/spring2018/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/04/17/spring2018/</guid>
+      <description>DATE AND TIME Mon, April 16, 2018
+5:30 PM – 9:00 PM CDT
+LOCATION Pizza Luce
+119 N 4th St
+Minneapolis, MN 55401
+INVITED TALKS &amp;ldquo;Treatment Allocation Using a Multi-Armed Bandit Approach&amp;rdquo; Sakshi Arya In medical practice, different treatments are available for a certain disease and a doctor decides which treatment to use on a patient. Multi Armed Bandit with Covariates (MABC) is a reinforcement learning approach that learns from and adapts to present and past information to achieve maximum benefit for the patients.</description>
+    </item>
+    
+  </channel>
+</rss>

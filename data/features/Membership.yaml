@@ -1,0 +1,5 @@
+weight: 3
+name: "Membership"
+icon: "fa fa-globe"
+description: "Join ASA and our local chapter"
+hyperlink: "/membership/"

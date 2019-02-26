@@ -1,0 +1,9 @@
+weight: 2
+title: "Membership"
+description: >
+  <ul class="list-style-none" style="color:White;" >
+     <li>We have a diverse membership group including statisticians, data scientists, and quantitative professionals
+     from academia, government, and private industry.</li>
+     <li> <a style="color: white;" href="/membership/"> Become a member now! </a></li>
+   </ul>
+image: "img/carousel/template-mac.png"

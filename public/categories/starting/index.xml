@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Starting on American Statistical Association-Twin Cities Chapter</title>
+    <link>/categories/starting/</link>
+    <description>Recent content in Starting on American Statistical Association-Twin Cities Chapter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/starting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2017 Twin Cities ASA Fall Research Meeting</title>
+      <link>/blog/2017/10/09/fall2017/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2017/10/09/fall2017/</guid>
+      <description>SHORT COURSE &amp;ldquo;Multi-State Survival Models&amp;rdquo; Terry Therneau, Mayo Clinic &amp;ldquo;Time until event&amp;rdquo; is a recurring question in medical research: time until death (survival) and the impact of various covariates on that outcome is the traditional example, but the methods apply to any ongoing process: the time until recurrence of cancer, waiting time on the liver transplant list, the onset of comorbidities with aging, the time until return to work (economics) and industrial reliability are a few examples.</description>
+    </item>
+    
+  </channel>
+</rss>

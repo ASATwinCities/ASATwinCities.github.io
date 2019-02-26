@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on American Statistical Association-Twin Cities Chapter</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on American Statistical Association-Twin Cities Chapter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UPCOMING EVENT Spring 2019: Reproducible Science - April</title>
+      <link>/blog/2019/04/17/spring2019/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/04/17/spring2019/</guid>
+      <description>DATE AND TIME Mon, April 16, 2019
+5:30 PM – 9:00 PM CDT
+LOCATION Pizza Luce
+119 N 4th St
+Minneapolis, MN 55401
+INVITED TALKS &amp;ldquo;Treatment Allocation Using a Multi-Armed Bandit Approach&amp;rdquo; Sakshi Arya In medical practice, different treatments are available for a certain disease and a doctor decides which treatment to use on a patient. Multi Armed Bandit with Covariates (MABC) is a reinforcement learning approach that learns from and adapts to present and past information to achieve maximum benefit for the patients.</description>
+    </item>
+    
+    <item>
+      <title>UPCOMING EVENT: Fall Member Meeting and Networking - October 9</title>
+      <link>/blog/2018/09/03/fall2018/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/09/03/fall2018/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to</description>
+    </item>
+    
+    <item>
+      <title>Spring 2018: Student Seminars and Networking Event</title>
+      <link>/blog/2018/04/17/spring2018/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/04/17/spring2018/</guid>
+      <description>DATE AND TIME Mon, April 16, 2018
+5:30 PM – 9:00 PM CDT
+LOCATION Pizza Luce
+119 N 4th St
+Minneapolis, MN 55401
+INVITED TALKS &amp;ldquo;Treatment Allocation Using a Multi-Armed Bandit Approach&amp;rdquo; Sakshi Arya In medical practice, different treatments are available for a certain disease and a doctor decides which treatment to use on a patient. Multi Armed Bandit with Covariates (MABC) is a reinforcement learning approach that learns from and adapts to present and past information to achieve maximum benefit for the patients.</description>
+    </item>
+    
+    <item>
+      <title>Fall 2017: Research Short Course and Seminars</title>
+      <link>/blog/2017/10/09/fall2017/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2017/10/09/fall2017/</guid>
+      <description>DATE AND TIME Mon, October 9, 2017
+8:30 AM – 5:00 PM CDT
+LOCATION University of St. Thomas (Downtown Minneapolis Campus)
+1000 LaSalle Avenue
+Opus Hall #201
+Minneapolis, MN 55403
+SHORT COURSE &amp;ldquo;Multi-State Survival Models&amp;rdquo; Presenter: Terry Therneau , Mayo Clinic &amp;ldquo;Time until event&amp;rdquo; is a recurring question in medical research: time until death (survival) and the impact of various covariates on that outcome is the traditional example, but the methods apply to any ongoing process: the time until recurrence of cancer, waiting time on the liver transplant list, the onset of comorbidities with aging, the time until return to work (economics) and industrial reliability are a few examples.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/blog/2015/07/23/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2015/07/23/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>

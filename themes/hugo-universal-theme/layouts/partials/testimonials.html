@@ -1,0 +1,52 @@
+{{ if isset .Site.Params "testimonials" }}
+{{ if .Site.Params.testimonials.enable }}
+{{ if gt (len .Site.Data.testimonials) 0 }}
+<section class="bar background-pentagon no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>{{ .Site.Params.testimonials.title }}</h2>
+                </div>
+
+                <p class="lead">
+                  {{ .Site.Params.testimonials.subtitle | markdownify }}
+                </p>
+
+                <!-- *** TESTIMONIALS CAROUSEL *** -->
+
+                <ul class="owl-carousel testimonials same-height-row">
+                    {{ range .Site.Data.testimonials }}
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                           <div class="text">
+                                <h4>{{ .text | markdownify }}</h4>
+                                <a href = {{ .link }}></a>
+                            </div> 
+                            <div class="bottom"> 
+                             <!--     <div class="icon"><i class="fa fa-quote-left"></i> -->
+                                </div> 
+                                <div class="name-picture">
+                                    <img class="" alt="" src="{{ .avatar | absURL }}">
+                                    <a href={{ .link }}><h4>{{ .name }}</h4></a>
+                                    <h5>{{ .position }}</h5>
+                                    <h5><i>{{ .company }}</i></h5>
+                                    <a href={{ .email }}><h3><i class="fa fa-envelope"></i></h3></a>
+                                </div>
+                           <!--  </div> -->
+                        </div>
+                    </li>
+                    {{ end }}
+                </ul>
+                <!-- /.owl-carousel -->
+
+                <!-- *** TESTIMONIALS CAROUSEL END *** -->
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- /.bar -->
+{{ end }}
+{{ end }}
+{{ end }}
